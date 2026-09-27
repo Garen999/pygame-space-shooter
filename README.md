@@ -1,8 +1,6 @@
-# Space-Shooter
-This game was made by using a tutorial by ClearCode
+# Pygame Space Shooter
+
+This is a Space Shooter game built in Python using the Pygame library.
 <br>
 <br>
-I added the start screen, difficulty selector, health system and game over screen
-<br>
-<br>
-Tutorial: https://youtu.be/8OMghdHP-zs?si=L-nLMNHFgSA1cj6- (first 3 hours and 46 minutes) 
+Note: This project was built by following the tutorial by ClearCode to learn game loop logic, collision detection and rendering in Python, However I independently added the start screen, difficulty selector, health system and game over screen
